@@ -17,14 +17,23 @@ mythirdpage.com as locahost/3.html
 
 # STEPS
 
-> Follow the installation step of Vagrant from https://www.vagrantup.com/docs/installation/ \n
-> Clone the repo \n
+> Follow the installation step of Vagrant from https://www.vagrantup.com/docs/installation/
+
+> Clone the repo 
+
 > run "vagrant up"
+
 > execute "vagrant ssh"
+
 > once ssh into vagrant machine, try
+
   curl myfirstpage.com
+  
   curl myfirstpage.com
+  
   curl myfirstpage.com
+  
 > execute "exit" , to exit out from the vagrant machine.
+
 
 
