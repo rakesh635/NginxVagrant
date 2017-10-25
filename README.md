@@ -17,8 +17,8 @@ mythirdpage.com as locahost/3.html
 
 # STEPS
 
-> Follow the installation step of Vagrant from https://www.vagrantup.com/docs/installation/
-> Clone the repo
+> Follow the installation step of Vagrant from https://www.vagrantup.com/docs/installation/ \n
+> Clone the repo \n
 > run "vagrant up"
 > execute "vagrant ssh"
 > once ssh into vagrant machine, try
