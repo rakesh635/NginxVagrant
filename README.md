@@ -14,3 +14,11 @@ myfirstpage.com as locahost/1.html
 mysecondpage.com as locahost/2.html
 
 mythirdpage.com as locahost/3.html
+
+# STEPS
+
+> Follow the installation step of Vagrant from https://www.vagrantup.com/docs/installation/
+> Clone the repo
+> run "vagrant up"
+
+
